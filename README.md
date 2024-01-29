@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @AskMas1 Ankit Mourya
-- 👀 I’m interested in creating new awesOme website and webapp
-- 🌱 I’m currently learning Data science and Machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-AskMas1/AskMas1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Ankit Mourya 👋
+
+
+## 🚀 About Me
+I am a Final Year B.Tech CSE student doing speciallization in Data Science at Acropolis Institute, batch (2020-24).
+
+
+## 🛠 Skills
+1. Java Full Stack Developer- JDBC,JSP,Servlet, Springboot, J2EE
+2. Python Developer - Flask, Django, Numpy, Pandas, 
+3. C++ for Data Structure.
+4. Web Development - HTML, CSS, JavaScript, Reactjs
+5. Cloud Technology - AWS, Git, Docker
+6. DataBases - MySQL, MongoDB
+7. Data Analysis - Python, Excel, PowerBI, Stata
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-six-indol-91.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaurya2001)
+
+
