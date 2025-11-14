@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-I am a Final Year B.Tech CSE student doing speciallization in Data Science at Acropolis Institute, batch (2020-24).
+I am a Post Graduate Data Science Student doing speciallization in Data Science at DAVV Indore, batch (2025-27).
 
 
 ## 🛠 Skills
-1. Java Full Stack Developer- JDBC,JSP,Servlet, Springboot, J2EE
+1. Machine learning and Customise Rag agent deployment
 2. Python Developer - Flask, Django, Numpy, Pandas, 
 3. C++ for Data Structure.
 4. Web Development - HTML, CSS, JavaScript, Reactjs
